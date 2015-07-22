@@ -32,6 +32,7 @@ img {
 }
 
 p {
+  font-size: 16px;
   background-color: white;
   margin: 10px 10px 10px 10px;
   padding: 7.5px 10px 7.5px 10px;
@@ -48,4 +49,24 @@ p {
 textarea {
    height: 130px;
    width: 650px;
+}
+
+h1, h2, h3 {
+  margin: 10px 5px 10px 5px;
+}
+
+/* table {
+  border: 2px solid rgb(34, 60, 97);
+  border-left-color: gainsboro;
+  border-right-color: gainsboro;
+}
+*/
+
+td {
+  text-align: center;
+  width: 656px;
+}
+
+form {
+  
 }
